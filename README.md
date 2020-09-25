@@ -1,10 +1,9 @@
 ## Hi, nice to meet you!
 
-<img align="right" src="https://github.com/zetadeceleste/zetadeceleste/blob/master/me.jpg" width="25%" />
-
 **I'm Celeste Zapata.**
 <br />👩‍💻 Web Designer & Developer.
-<br />I’m a developer focused on **Front-End** & **Web Development** with an Associated Degree in Computer Programming.
+<br />I’m a developer focused on **Front-End** & **Web Development**
+<br />with an Associated Degree in Computer Programming.
 <br />I have experience with **Web Design** & **Digital Marketing** integrations.
 <br />📌 I'm currently based in Mendoza, Argentina.
 
@@ -20,6 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 </div>
 
+<br />
 Feel free to visit my [website](https://celestezapata.com) and my social media!
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" width="36px"/>](https://github.com/zetadeceleste)
