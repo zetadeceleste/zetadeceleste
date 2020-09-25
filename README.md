@@ -1,8 +1,10 @@
 ## Hi, nice to meet you!
 
-<img align="left" src="https://github.com/zetadeceleste/zetadeceleste/blob/master/me.jpg" width="25%" height="150"/>
+<div width="25%" height="200">
+<img align="left" src="https://github.com/zetadeceleste/zetadeceleste/blob/master/me.jpg" width="auto" height="100%" />
+</div>
 
-<div width="75%" height="150">
+<div width="75%" height="200">
 **I'm Celeste Zapata.**
 <br />👩‍💻 Web Designer & Developer.
 <br />I’m a developer focused on **Front-End** & **Web Development** with an Associated Degree in Computer Programming.
