@@ -19,8 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 </div>
 
-<br />
-Feel free to visit my [website](https://celestezapata.com) and my social media!
+<br />Feel free to visit my [website](https://celestezapata.com) and my social media!
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" width="36px"/>](https://github.com/zetadeceleste)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36px"/>](https://twitter.com/zetadeceleste)
