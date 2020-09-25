@@ -1,6 +1,6 @@
 ## Hi, nice to meet you!
 
-<img align="left" src="https://github.com/zetadeceleste/zetadeceleste/blob/master/me.jpg" width="25%" />
+<img align="right" src="https://github.com/zetadeceleste/zetadeceleste/blob/master/me.jpg" width="25%" />
 
 **I'm Celeste Zapata.**
 <br />👩‍💻 Web Designer & Developer.
