@@ -2,7 +2,7 @@
 
 I'm Celeste Zapata.
 <br />👩‍💻 Software Engineer with an Associate Degree in Computer Programming.
-<br />I'm focused on Growth Engineering, Front-End & Web Development, bringing over 4 years of professional experience across various industries, including software factories, e-commerce, e-tech and both website and app development.
+<br />I'm focused on **Growth Engineering**, **Front-End** && **Web Development**, bringing over 4 years of professional experience across various industries, including software factories, e-commerce, e-tech and both website and app development.
 <br />I've collaborated closely with designers, digital marketers, and analysts, honing strong skills in cross-functional teamwork.
 <br />I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency.
 <br />📌 Currently based in Mendoza, Argentina.
