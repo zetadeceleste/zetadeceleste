@@ -19,6 +19,6 @@ I'm Celeste Zapata.
 
 <br />Feel free to visit my [website](https://celestezapata.dev) and my social media!
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png](https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg" alt="X" width="36px"/>](https://x.com/zetadeceleste)
+[<img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg" alt="X" width="36px"/>](https://x.com/zetadeceleste)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36px"/>](https://www.linkedin.com/in/celeste-zapata/)
 [<img src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/5ec7d9f1047417c8d845175f_5e91233e241fd868da6ef63d_upwork_bug_square_large.png" alt="Upwork" width="36px"/>](https://www.upwork.com/freelancers/~01595f0b7e3a19fc5d)
