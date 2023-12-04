@@ -1,11 +1,11 @@
 ## Hi, nice to meet you!
 
-**I'm Celeste Zapata.**
-<br />👩‍💻 Software Engineer.
-<br />I’m a developer focused on **Front-End** && **Web Development**
-<br />with an Associated Degree in Computer Programming.
-<br />I have experience with **Web Design** & **Digital Marketing** integrations.
-<br />📌 I'm currently based in Mendoza, Argentina.
+I'm Celeste Zapata.
+<br />👩‍💻 Software Engineer with an Associate Degree in Computer Programming.
+<br />I'm focused on Growth Engineering, Front-End & Web Development, bringing over 4 years of professional experience across various industries, including software factories, e-commerce, e-tech and both website and app development.
+<br />I've collaborated closely with designers, digital marketers, and analysts, honing strong skills in cross-functional teamwork.
+<br />I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency.
+<br />📌 Currently based in Mendoza, Argentina.
 
 <div align="left">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
