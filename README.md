@@ -18,7 +18,7 @@ I'm Celeste Zapata.
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </div>
 
-<br />Feel free to visit my [website](https://celestezapata.dev) and my social media!
+<br />Feel free to visit my [website](https://zetadeceleste.dev) and my social media!
 
 [<img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg" alt="X" width="36px"/>](https://x.com/zetadeceleste)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36px"/>](https://www.linkedin.com/in/celeste-zapata/)
