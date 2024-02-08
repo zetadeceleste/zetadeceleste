@@ -1,9 +1,8 @@
 ## Howdy!
 
 I'm Celeste Zapata.
-<br />👩‍💻 Developer with an Associate Degree in Computer Programming.
-<br />I'm focused on **Growth Engineering** && **Frontend Development**, bringing over 4 years of professional experience across various industries, including e-commerce and e-tech.
-<br />I've collaborated closely with designers, marketers and analysts, honing strong skills in cross-functional teamwork.
+<br />👩‍💻 Developer with an Associate Degree in Computer Programming, focused in **Growth Engineering** && **Frontend Development**.
+<br />I bring over 4 years of experience from various industries, closely collaborating with designers, marketers, and analysts.
 
 <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -14,9 +13,8 @@ I'm Celeste Zapata.
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
 </div>
 
-<br />I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency.
-<br />I'm committed to **Sustainable Software Engineering**, focusing on adopting best practices to maintain clean code, eliminate unused assets and files, and optimize resources for greater efficiency and a smaller environmental footprint.
-<br />Additionally, I strive for *pixel-perfect* designs, keeping an eye on **SEO** and **Performance**, as they are crucial factors for a great *Quality Score*.
+<br />Committed to 🌱 *Sustainable Software Engineering*, I prioritize best practices for clean code and resource optimization to minimize environmental impact.
+<br />Passionate about continuous learning, I aim to deliver *pixel-perfect* designs, focusing on **SEO** and **Performance** optimization, essential for achieving a high *Quality Score*.
 
 <br />📌 Currently based in Mendoza, Argentina.
 <br />Feel free to visit my [website](https://zetadeceleste.dev) and my social media!
