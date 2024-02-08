@@ -1,4 +1,4 @@
-## Hi, nice to meet you!
+## Howdy!
 
 I'm Celeste Zapata.
 <br />👩‍💻 Developer with an Associate Degree in Computer Programming.
