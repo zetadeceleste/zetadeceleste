@@ -10,7 +10,6 @@ I'm passionate about continuous learning and relish tackling technological chall
 <br />Additionally, I strive for *pixel-perfect* designs, keeping an eye on **SEO** and **Performance**, as they are crucial factors for a great *Quality Score*.
 
 <br />📌 Currently based in Mendoza, Argentina.
-
 <br />Feel free to visit my [website](https://zetadeceleste.dev) and my social media!
 
 [<img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg" alt="X" width="36px"/>](https://x.com/zetadeceleste)
