@@ -8,7 +8,9 @@ I'm Celeste Zapata.
 I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency.
 <br />I'm committed to **Sustainable Software Engineering**, focusing on adopting best practices to maintain clean code, eliminate unused assets and files, and optimize resources for greater efficiency and a smaller environmental footprint.
 <br />Additionally, I strive for *pixel-perfect* designs, keeping an eye on **SEO** and **Performance**, as they are crucial factors for a great *Quality Score*.
+
 <br />📌 Currently based in Mendoza, Argentina.
+
 
 <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" alt="React" width="40" height="40"/>
