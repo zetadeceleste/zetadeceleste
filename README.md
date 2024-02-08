@@ -4,7 +4,8 @@ I'm Celeste Zapata.
 <br />👩‍💻 Developer with an Associate Degree in Computer Programming.
 <br />I'm focused on **Growth Engineering** && **Frontend Development**, bringing over 4 years of professional experience across various industries, including e-commerce and e-tech.
 <br />I've collaborated closely with designers, marketers and analysts, honing strong skills in cross-functional teamwork.
-<br />I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency.
+
+I'm passionate about continuous learning and relish tackling technological challenges with creativity and efficiency.
 <br />I'm committed to Sustainable Software Engineering, focusing on adopting best practices to maintain clean code, eliminate unused assets and files, and optimize resources for greater efficiency and a smaller environmental footprint.
 <br />Additionally, I strive for pixel-perfect designs, keeping an eye on SEO and Performance, as they are crucial factors for an excellent quality score.
 
