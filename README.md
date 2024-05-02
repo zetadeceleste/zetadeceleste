@@ -1,7 +1,7 @@
 ## Howdy!
 
 I'm Celeste Zapata.
-<br />👩‍💻 Developer with an Associate Degree in Computer Programming, focused in **Growth Engineering** && **Frontend Development**.
+<br />👩‍💻 Developer focused in **Growth Engineering** && **Frontend Development**.
 <br />With over 5 years of cross-industry experience, I have closely collaborated with designers, marketers, and analysts.
 
 <div align="left">
