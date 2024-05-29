@@ -1,6 +1,6 @@
 ## Howdy!
 
-I´m Celes, a developer focused in Growth Engineering && Frontend Development.
+I´m Celes, a developer focused in Growth Engineering && Frontend Development.<br />
 <br />With over 5 years of cross-industry experience, I´ve closely collaborated with designers, marketers, and analysts.
 
 <div align="left">
@@ -14,8 +14,8 @@ I´m Celes, a developer focused in Growth Engineering && Frontend Development.
     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="40" height="40"/>
 </div>
 
-<br />Passionate about continuous learning, I strive to deliver *pixel-perfect* designs with a focus on **SEO** and **Performance** optimization, essential for maintaining a high *Quality Score* for websites.
-<br />I’m committed to the principles of 🌱 *Sustainable Software Engineering*: prioritizing best practices for clean code and resource optimization, both to minimize environmental impact and to smartly cut costs.
+<br />Passionate about continuous learning, I strive to deliver *pixel-perfect* designs with a focus on **SEO** and **Performance** optimization, essential for maintaining a high *Quality Score* for websites.<br />
+<br />I’m committed to the principles of 🌱 *Sustainable Software Engineering*: prioritizing best practices for clean code and resource optimization, both to minimize environmental impact and to smartly cut costs.<br />
 <br />Additionally, I consider *Web Accessibility* a priority, ensuring an inclusive user experience by providing seamless access for individuals with disabilities.
 
 <br />📌 Currently based in Mendoza, Argentina.
