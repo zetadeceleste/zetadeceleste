@@ -15,9 +15,7 @@ I´m Celes, a developer focused in Growth Engineering && Frontend Development.
 </div>
 
 <br />Passionate about continuous learning, I strive to deliver *pixel-perfect* designs with a focus on **SEO** and **Performance** optimization, essential for maintaining a high *Quality Score* for websites.
-
 <br />I’m committed to the principles of 🌱 *Sustainable Software Engineering*: prioritizing best practices for clean code and resource optimization, both to minimize environmental impact and to smartly cut costs.
-
 <br />Additionally, I consider *Web Accessibility* a priority, ensuring an inclusive user experience by providing seamless access for individuals with disabilities.
 
 <br />📌 Currently based in Mendoza, Argentina.
