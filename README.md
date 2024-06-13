@@ -1,7 +1,7 @@
 ## Howdy!
 
 I´m Celes, a developer focused in Growth Engineering && Frontend Development.
-<br />With over 5 years of cross-industry experience, I´ve closely collaborated with designers, marketers, and analysts.
+<br />With over 5 years of cross-industry experience, I've closely collaborated with marketers, publicists, analysts and designers.
 
 <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
