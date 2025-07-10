@@ -13,6 +13,8 @@ digital products.</p>
     <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admanager_192px_MuAH4Zs.max-800x800.png" alt="Google Ad Manager" width="40" height="40"/>
 </div>
 
+<br />
+
 <p>I specialize in building <em>pixel-perfect</em>, <strong>accessible</strong>, and <strong>SEO-optimized</strong> interfaces, with a strong focus on <strong>performance optimization</strong>, essential for maintaining a high <strong>Quality Score</strong> for websites.</p>
 <p>Passionate about 🌱 <em>Sustainable Software Engineering</em>, I prioritize clean code and resource-efficient practices to reduce environmental impact and optimize infrastructure costs.</p>
 <p>Feel free to visit my [website](https://zetadeceleste.dev)!</p>
