@@ -17,7 +17,7 @@ digital products.</p>
 
 <p>I specialize in building <em>pixel-perfect</em>, <strong>accessible</strong>, and <strong>SEO-optimized</strong> interfaces, with a strong focus on <strong>performance optimization</strong>, essential for maintaining a high <strong>Quality Score</strong> for websites.</p>
 <p>Passionate about 🌱 <em>Sustainable Software Engineering</em>, I prioritize clean code and resource-efficient practices to reduce environmental impact and optimize infrastructure costs.</p>
-<p>Feel free to visit my [website](https://zetadeceleste.dev)!</p>
+<p>Feel free to visit my <a href="https://zetadeceleste.dev">website!</a></p>
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36px"/>](https://www.linkedin.com/in/zetadeceleste)
 [<img src="https://assets-global.website-files.com/5ec7d9f13fc8c0ec8a4c6b26/5ec7d9f1047417c8d845175f_5e91233e241fd868da6ef63d_upwork_bug_square_large.png" alt="Upwork" width="36px"/>](https://www.upwork.com/freelancers/~01595f0b7e3a19fc5d)
