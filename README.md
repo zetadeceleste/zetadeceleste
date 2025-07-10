@@ -9,8 +9,8 @@ digital products.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on Rails" width="80" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="AWS" width="80" height="40"/>
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admanager_192px_MuAH4Zs.max-800x800.png" alt="Google Ad Manager" width="80" height="40"/>
+    <img src="https://1000marcas.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png" alt="AWS" width="40" height="40"/>
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admanager_192px_MuAH4Zs.max-800x800.png" alt="Google Ad Manager" width="40" height="40"/>
 </div>
 
 <br />I specialize in building pixel-perfect, accessible, and SEO-optimized interfaces, with a strong focus on performance optimization, essential for maintaining a high Quality Score for websites.
