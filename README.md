@@ -15,6 +15,7 @@ digital products.
 
 <br />I specialize in building pixel-perfect, accessible, and SEO-optimized interfaces, with a strong focus on performance optimization, essential for maintaining a high Quality Score for websites.
 <br />Passionate about 🌱 Sustainable Software Engineering, I prioritize clean code and resource-efficient practices to reduce environmental impact and optimize infrastructure costs.
+
 <br />Feel free to visit my [website](https://zetadeceleste.dev)!
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36px"/>](https://www.linkedin.com/in/zetadeceleste)
