@@ -7,9 +7,9 @@ digital products.
 <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="60" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on Rails" width="80" height="40"/>
-    <img src="https://1000marcas.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png" alt="AWS" width="40" height="40"/>
+    <img src="https://1000marcas.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png" alt="AWS" width="60" height="40"/>
     <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admanager_192px_MuAH4Zs.max-800x800.png" alt="Google Ad Manager" width="40" height="40"/>
 </div>
 
