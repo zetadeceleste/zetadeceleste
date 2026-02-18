@@ -1,6 +1,6 @@
 ## Howdy!
 
-<p>I´m <strong>Celes</strong>, a developer with a programming degree and over 5 years of cross-industry experience,
+<p>I´m <strong>Celes</strong>, a developer with a programming degree and over 6 years of cross-industry experience,
 <br />having worked closely with designers, publishers, marketers and analysts to deliver high-impact
 digital products.</p>
 
