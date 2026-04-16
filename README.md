@@ -6,7 +6,6 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="60" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></td>
     <td align="center"><img src="https://1000marcas.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png" alt="AWS" width="60" height="40"/></td>
-    <td align="center"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admanager_192px_MuAH4Zs.max-800x800.png" alt="Google Ad Manager" width="40" height="40"/></td>
     <td align="center"><img src="https://claude.ai/images/claude_app_icon.png" alt="Claude Code" width="40" height="40"/></td>
   </tr>
 </table>
