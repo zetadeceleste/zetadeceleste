@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" alt="React.js" width="40" height="40"/></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/500px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="PHP" width="60" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></td>
